@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harini and I'm 20!
+- 👋 Hi, I’m Harini, a 3rd Year Student pursuing my Bachelor in Computer Science Engineering!
 - 🌱 I'm a coding enthusiast 
 
 <!---
