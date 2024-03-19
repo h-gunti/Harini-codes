@@ -13,9 +13,4 @@ You can click the Preview link to take a look at your changes.
 - <b>Spoj      </b>  : <i>harini_gunti</i>
 - <b>Leetcode  </b>  : <i>hariniiii</i>
 - <b>InterviewBit</b>: <i>harini-gunti</i>
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harini-codes&theme=calm&hide_border=true)<br/>
-
-
-[![](https://visitcount.itsvg.in/api?id=Harini-codes&icon=9&color=3)](https://visitcount.itsvg.in)
 
