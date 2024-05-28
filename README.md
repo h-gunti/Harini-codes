@@ -2,9 +2,9 @@
 ## _"Hello, World!"_
 Hi! I’m **_Harini_**, a 3rd Year Student pursuing my Bachelor's in Computer Science Engineering. As an aspiring software developer, I am deeply interested in building efficient and scalable applications and exploring innovative technologies. I have cultivated a diverse skill set encompassing coding, data structures and algorithms (DSA), and web development. I enjoy collaborating with other developers and continuously improving my coding skills. Apart from focusing on building efficient solutions, I also like to add a creative edge to my projects! 
 
-### 📍 I'm from _India_
+📍 I'm from _India_
 
-### 📧 You can contact me through _guntiharini7@gmail.com_
+📧 You can contact me through _guntiharini7@gmail.com_
 
 
 ## _Tech Stack_:
